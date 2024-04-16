@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #cd1818;
+}
+h2{
+    text-align: center;
+}
+.header {
+    overflow: hidden;
+    background-color: #268663;
+    padding: 20px 10px;
+    background-image: url(money.jpg);
+  }
+  div.polaroid {
+    width: 60%;
+    background-color: white;
+    box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 250px;
+    
+    
+  }
+  
+  img {width: 100%}
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+  body{
+    background-image: url(Louvre\,\ Paris_mika-baumeister-GCfE4fl7tIQ-unsplash.webp);
+  }
+p{
+    font-size: large;
+    text-shadow: 2px 2px #ffffff;
+    font-weight: bold;
+}
